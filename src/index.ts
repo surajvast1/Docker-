@@ -19,6 +19,12 @@ app.post('/user', async (req: Request, res: Response) => {
   }
 });
 
+ 
+ 
+ 
+ 
+ 
+
 // Endpoint to fetch all users
 app.get('/users', async (req: Request, res: Response) => {
   try {
